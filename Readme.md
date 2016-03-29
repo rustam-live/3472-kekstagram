@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Rustam777](https://up.htmlacademy.ru/javascript/4/user/3472).
-* Наставник: `Неизвестно`.
+* Студент: [Молтуганов Рустам](https://up.htmlacademy.ru/javascript/4/user/3472).
+* Наставник: `Игорь Кузнецов`(https://htmlacademy.ru/profile/id201747).
 
 ---
 
