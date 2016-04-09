@@ -23,3 +23,4 @@ var getMessage = function(a, b) {
         return 'Общая площадь артефактов сжатия: ' + square + ' пикселей';
   }
 }
+ 
